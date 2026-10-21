@@ -1,0 +1,1 @@
+Claude and other agents: Mandatory read AGENTS.md before work. After EACH run give plan ID, previous/current stage, core-feature proof, source reuse/license/security review vs new code, authoritative CI/live status, overall project progress and blockers. Never bypass existing approvals.
