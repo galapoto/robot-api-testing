@@ -1,0 +1,1 @@
+GitHub Copilot: Before every run read root AGENTS.md and apply GLOBAL-AGENT-RUN-PROOF v1. Report precise plan subpart, before/after stage, core advancement, existing safe/licensed code reused/adapted vs scratch, exact CI/live receipts, whole-project DONE/IN PROGRESS/NOT STARTED/BLOCKED. Preserve stricter security and scope.
